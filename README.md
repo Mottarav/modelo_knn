@@ -1,2 +1,2 @@
-# startups_eda
-Estudo e aplicação de metodologias para analise de dados
+# KNN model
+modelo de recomendação utilizando sklearn knearestneighbors
